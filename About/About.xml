@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+<packageId>Z3kiel.autoCutGauranlenMoss</packageId>
+	<name>Auto-cut Gauranlen Moss</name>
+	<author>Zekiel</author>
+	<supportedVersions>
+		<li>1.3</li>
+	</supportedVersions>
+	<loadAfter>
+		<li>Ludeon.RimWorld.Royalty</li>
+	</loadAfter>
+	<description>Enables auto-cutting gauranlen moss through the pen marker menu.</description>
+</ModMetaData>
